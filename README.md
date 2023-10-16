@@ -1,4 +1,4 @@
-# Rempill
+# Rempill (WIP)
 
 Rempill es una plataforma diseñada para ayudarte a controlar y mejorar tu bienestar y calidad de vida a través del seguimiento de datos de salud esenciales. Este sistema se enfoca en el control de la diabetes y los niveles de glucosa, pero también es útil para un monitoreo general de la salud.
 
